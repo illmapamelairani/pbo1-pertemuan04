@@ -18,5 +18,6 @@ public class TUGAS_Array {
         }
 
         System.out.println(total);
+        
     }
 }
